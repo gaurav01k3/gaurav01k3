@@ -1,5 +1,4 @@
 ### Hi there 👋
-I am self taught web developer who ,
 
 - I am a MERN Stack Developer.
 - Also worked web technologies Typescript , Material UI , Bootstrap, React Query.
